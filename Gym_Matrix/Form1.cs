@@ -16,5 +16,10 @@ namespace Gym_Matrix
         {
             InitializeComponent();
         }
+
+        private void bunifuButton1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Version 1.0.0.1");
+        }
     }
 }
