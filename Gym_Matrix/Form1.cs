@@ -19,7 +19,7 @@ namespace Gym_Matrix
 
         private void bunifuButton1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Version 1.0.0.1");
+            MessageBox.Show("Version 1.0.0.3");
         }
     }
 }
