@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gym_Matrix", "Gym_Matrix\Gym_Matrix.csproj", "{263724A3-DB66-4CFD-BD9B-56BD22908402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{263724A3-DB66-4CFD-BD9B-56BD22908402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263724A3-DB66-4CFD-BD9B-56BD22908402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263724A3-DB66-4CFD-BD9B-56BD22908402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263724A3-DB66-4CFD-BD9B-56BD22908402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {078F705D-7705-45BB-BED3-645408A63C03}
+	EndGlobalSection
+EndGlobal
